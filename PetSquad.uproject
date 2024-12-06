@@ -15,6 +15,11 @@
 			"Name": "LineOfSight",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/564592e6f64e47a9a2401e5216ae4738"
+		},
+		{
+			"Name": "EasyPose",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/17a5d8b490794ec28b5996af37381d3b"
 		}
 	]
 }

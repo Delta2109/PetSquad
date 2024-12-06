@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.3",
+	"FriendlyName": "Material Assignment",
+	"Description": "Quickly assign materials to static meshes collectively.",
+	"Category": "Level Design",
+	"CreatedBy": "Leartes Studios",
+	"CreatedByURL": "https://leartesstudios.com",
+	"DocsURL": "https://drive.google.com/file/d/1OSrrTrG3ji_IwsUjXjZQc8xnwT63I-_z/view",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e5667454124c4f649381638a13bcaa15",
+	"SupportURL": "https://leartes.atlassian.net/servicedesk/customer/portal/1",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MaterialAssignment",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "MaterialAssignmentManager",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		}
+	]
+}
